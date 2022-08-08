@@ -6,7 +6,7 @@ Create local database name is message_app
 
 ## Migration and Generate data
 >```php
->php artisan generate 3 30
+>php artisan generate:data 3 30
 >```
 
 First parameter is total users
